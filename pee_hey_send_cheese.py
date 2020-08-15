@@ -1,5 +1,6 @@
 #!/usr/bin/python
 	# -*- coding: UTF-8 -*-
+	#标题是屁孩生气的意思
 import random
 text = [ 
 	"喵喵 ",
